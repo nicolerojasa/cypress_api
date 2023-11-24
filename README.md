@@ -5,8 +5,8 @@ Pre-requisitos:
 
 Ejecución:
 > [!NOTE]
-> Comandos dentro de la carpeta contenedora
-> bash> npx cypress open   > 
+> - Comandos dentro de la carpeta contenedora
+> - bash> npx cypress open   > 
 
 - Opcional
 + Generar reporte de pruebas
