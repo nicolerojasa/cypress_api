@@ -6,7 +6,8 @@ Pre-requisitos:
 Ejecución:
 > [!NOTE]
 > Comandos dentro de la carpeta contenedora
+> bash> npx cypress open   > 
 
-> bash> npx cypress open   > - Opcional
-> Generar reporte de pruebas
-> npx cypress run --reporter junit --reporter-options "mochaFile=results/my-test-output.xml"
+- Opcional
++ Generar reporte de pruebas
++ npx cypress run --reporter junit --reporter-options "mochaFile=results/my-test-output.xml"
