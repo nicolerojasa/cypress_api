@@ -1,7 +1,7 @@
 Pre-requisitos:
 
 - instalar node (https://nodejs.org/en/download)
-- ejecutar proyecto y sus requisitos (https://github.com/nicolerojasa/api_ejemplo)  Ejecución:
+- ejecutar proyecto y sus requisitos (https://github.com/nicolerojasa/api_ejemplo)
 
 Ejecución:
 > [!NOTE]
